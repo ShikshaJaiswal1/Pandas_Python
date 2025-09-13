@@ -1,0 +1,58 @@
+[
+    {
+        "ID": 1,
+        "Name": "Amit",
+        "Age": 25,
+        "Department": "HR",
+        "Salary": 50000
+    },
+    {
+        "ID": 2,
+        "Name": "Sita",
+        "Age": 30,
+        "Department": "IT",
+        "Salary": 60000
+    },
+    {
+        "ID": 3,
+        "Name": "Raj",
+        "Age": null,
+        "Department": "Finance",
+        "Salary": 55000
+    },
+    {
+        "ID": 4,
+        "Name": "Priya",
+        "Age": 28,
+        "Department": "Marketing",
+        "Salary": null
+    },
+    {
+        "ID": 5,
+        "Name": "Vikram",
+        "Age": 35,
+        "Department": "IT",
+        "Salary": 75000
+    },
+    {
+        "ID": 6,
+        "Name": "Anjali",
+        "Age": 29,
+        "Department": "HR",
+        "Salary": 52000
+    },
+    {
+        "ID": 7,
+        "Name": "Rohan",
+        "Age": 32,
+        "Department": "Finance",
+        "Salary": 70000
+    },
+    {
+        "ID": 8,
+        "Name": "Kiran",
+        "Age": 26,
+        "Department": "Marketing",
+        "Salary": 48000
+    }
+]
